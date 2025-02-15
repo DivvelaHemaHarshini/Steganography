@@ -7,16 +7,16 @@ This project implements a simple image-based text encryption and decryption tech
 3.Saves the encrypted image for later retrieval.</br>
 4.Extracts and decrypts the hidden message from the image.</br>
 
-<h2>Prerequisites:</h2>
-1.Python 3.x
-2.OpenCV (cv2)
+<h2>Prerequisites:</h2></br>
+1.Python 3.x</br>
+2.OpenCV (cv2)</br>
 
-<h2>Procedure:</h2>
-1.Run the python file
-2.Enter the secret message and passcode for encryption.
-3.The encrypted image (encryptedImage.jpg) will be generated.
-4.Enter the correct passcode to retrieve the hidden message.
+<h2>Procedure:</h2></br>
+1.Run the python file</br>
+2.Enter the secret message and passcode for encryption.</br>
+3.The encrypted image (encryptedImage.jpg) will be generated.</br>
+4.Enter the correct passcode to retrieve the hidden message.</br>
 
 <h2>Note</h2>
-1.Ensure that the image used has enough pixel data to store the message.
+1.Ensure that the image used has enough pixel data to store the message.</br>
 2.If the wrong passcode is entered, access to the message is denied.
