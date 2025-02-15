@@ -2,10 +2,10 @@
 This project implements a simple image-based text encryption and decryption technique using OpenCV in Python. The program hides a secret message within an image by modifying pixel values and allows retrieval using a passcode.
 
 <h2>Features:</h2>
-1.Encrypts a secret message into an image by embedding ASCII values into pixel data.
-2.Uses a passcode-based authentication system for decryption.
-3.Saves the encrypted image for later retrieval.
-4.Extracts and decrypts the hidden message from the image.
+1.Encrypts a secret message into an image by embedding ASCII values into pixel data.</br>
+2.Uses a passcode-based authentication system for decryption.</br>
+3.Saves the encrypted image for later retrieval.</br>
+4.Extracts and decrypts the hidden message from the image.</br>
 
 <h2>Prerequisites:</h2>
 1.Python 3.x
